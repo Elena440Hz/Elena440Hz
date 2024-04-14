@@ -1,6 +1,7 @@
 ⋆˚✿˖° Hello World! I'm Elena ⋆˚✿˖°
 
 About Me
+
 ୨୧ Junior Programmer exploring the vast world of code and loving every bit of it!
 ୨୧ Enthusiastic about trying out all sorts of projects and technologies, from web development to machine learning.
 ୨୧ Believer in the magic of learning and growing together! Seeking a LeetCode buddy to conquer coding challenges with. Let's level up together! 💪
