@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**Elena440Hz/Elena440Hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+#!/usr/bin/python
+class Engineer:
+    def __init__(self):
+        self.name         = "Elena Lazaridou"
+        self.role         = "Electrical + Computer Engineer"
+        self.contact      = "https://www.instagram.com/elenala._/"
+        self.education    = {
+                            "Aristotle University": "MS Electrical + Computer Engineering"
+                            }
+        self.skills       = ["Deep Learning", "Machine Learning", "AI",
+                            "Software Engineering Practises", "Algorithms", "Data Structures & Algorithms", 
+                            "Signal Processing",]
+        self.connect      = "https://www.linkedin.com/in/lazaridou-eleni/"
+    
+    def getHistory():
+        return "Thessaloniki->Greece"
+me = Engineer()
+```
