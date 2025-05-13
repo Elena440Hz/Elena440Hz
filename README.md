@@ -10,7 +10,7 @@ class Engineer:
                             }
         self.skills       = ["Deep Learning", "Machine Learning", "AI",
                             "Software Engineering Practises", "Algorithms", "Data Structures & Algorithms", 
-                            "Signal Processing",]
+                            "Signal Processing"]
         self.connect      = "https://www.linkedin.com/in/lazaridou-eleni/"
     
     def getHistory():
