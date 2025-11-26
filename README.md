@@ -11,7 +11,7 @@ class Engineer:
         self.skills       = ["Deep Learning", "Machine Learning", "AI",
                             "Software Engineering Practises", "Algorithms", "Data Structures & Algorithms", 
                             "Signal Processing"]
-        self.connect      = "https://www.linkedin.com/in/lazaridou-eleni/"
+        self.connect      = "https://www.instagram.com/elenala._"
     
     def getHistory():
         return "Thessaloniki->Greece"
