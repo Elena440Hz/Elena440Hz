@@ -2,7 +2,7 @@
 #!/usr/bin/python
 class Engineer:
     def __init__(self):
-        self.name         = "Elena Lazaridou"
+        self.name         = "Elena"
         self.role         = "Electrical + Computer Engineer"
         self.contact      = "https://www.instagram.com/elenala._/"
         self.education    = {
