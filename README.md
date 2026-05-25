@@ -27,7 +27,7 @@ me = Engineer()
 # 📊 GitHub Stats:
 ![GitHub Card](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=Elena440Hz&theme=nord&hide_border=true)
 ![](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Elena440Hz)
-![](https://nirzak-streak--extended.vercel.app/?user=Elena440Hz)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Elena440Hz)](https://git.io/streak-stats)
 ![](https://github-stats-extended.vercel.app/api?username=Elena440Hz)
 ![](https://github-readme-stats-extended.vercel.app/api?username=Elena440Hz)
 
